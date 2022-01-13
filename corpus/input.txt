@@ -1,0 +1,98 @@
+Frequently Asked Questions for Outlook.com Preview
+Where can I find information about the release of Outlook.com Preview for Mail, Calendar, and People
+
+May 2015, the Microsoft Outlook team announced an update to Outlook.com, the web-based email application.  Since then, Outlook Preview has been rolled out to many email accounts.  The Outlook team made improvements to the service based on feedback from early users, and has broadened the rollout so more people can access the features sooner.
+
+If you’ve received the Outlook.com Preview, you may have some questions about the new features and web experience. 
+
+
+
+Frequently Asked Questions
+
+
+
+Where can I find self-help content for the new Outlook.com features for Mail, Calendar, and People?
+
+Self-help content is available here on https://support.office.com. 
+
+You can also search for help content within the Outlook.com web application. 
+
+Click Help Image in the top, right menu bar.  A side pane will open with links to common questions.
+
+Enter keywords in the search box to view a list of self-help articles.
+
+Click Help Image again to close the side pane.
+
+How do I find the Options menus?
+
+Click Settings Image in the top, right menu bar.  You’ll see several links to change options in Outlook.com to customize your view.
+
+How do I turn off the Preview Text in the list of email messages?  When my account was updated, I now see part of the text of each message in the Inbox.
+
+Click Settings  in the top, right menu bar and select Display Settings. 
+
+Under Display Settings, click Message list, click Hide preview text, and click OK to save.
+
+What is the best way to attach a photo to a message or calendar event?
+
+When creating a new email message or calendar event, click on the Picture icon above the message text area.  Select a photo from your computer (or cloud storage option) to insert in the message.
+
+Image
+
+How do I sign out?
+
+Click your profile picture in the top, right corner of the menu bar, and click Sign out.
+
+Since my account was updated to the Outlook.com Preview, I can’t see all my folders.  How do I fix this?
+
+We want to assure you that no data has been lost in the update to the Outlook.com Preview.  Follow these steps to find messages after the Preview update:
+
+Expand all the folders to check that your folder is there.  Click on the arrow to the left of the word “Folder” to see the list of folders.  If you had folders within folders, you may need to click on each folder to see the full list.
+
+If you don’t see the folder you need, search for a message or contact that may have been in the folder.  Use the Search field above the Folder list.
+
+Image
+
+If you still need help to find a folder, post a question in this Outlook Preview forum to get assistance.
+
+When reading email, I don’t see the up and down arrows to read the previous or next message. 
+
+You should be able to see the up and down arrows and other features of the menu bar.  If you don’t see the arrows, try resizing the browser to a smaller size and then back to your preferred setting.  The Outlook team is working on a resolution to solve this problem.
+
+
+
+How do I insure that I’m seeing all the features in the Outlook.com Preview on a web browser?
+
+To get the most out of the Outlook.com Preview, we recommend that you use the latest version of your browser.  With older browsers, you will receive a light or basic experience.
+
+
+
+Since my account was updated to the Outlook.com Preview, I can access my email on a web browser, but I can’t get to my email from an email client application.
+
+When your account receives the Outlook.com Preview, you can access your email through any web browser, the Outlook for iOS and Android apps for mobile devices, and Outlook 2010, Outlook 2013, or Outlook 2016 desktop applications for PC and Mac. 
+
+Customers who wish to access their email through the MSN email client, Windows Live Mail or older versions of Outlook desktop applications may not be able to sync their email.  The MSN email client and Windows Live Mail application will be updated in future weeks to support Outlook.com Preview accounts.
+
+
+
+Additional Questions & Providing Feedback
+
+My email account was updated to the Outlook.com Preview.  How do I get back to the previous version of Outlook.com?
+
+Email accounts that are upgraded to the Outlook.com Preview have been moved to an Office 365-based infrastructure.  There is not a rollback option.  The new Outlook.com experience brings a host of new features optimized to help customers better collaborate and be more productive.  All Outlook.com customers will be upgraded to the new experience in the coming months. We do want to hear your feedback and questions on the new experience. Please leave a comment on Outlook.UserVoice.com.
+
+How do I get the Outlook.com Preview experience early?
+
+The Outlook team is expanding the preview in a controlled manner. Currently, there is no method to manually self-opt in to receive the new experience.
+
+
+
+Since you are rolling out the new experience to an increasing number of users, why is it still labeled a ‘preview’?
+
+Although the experience will be rolled out to a broader audience, the technology is still in preview. We encourage customers with the Outlook.com Preview to provide their feedback via Uservoice so we can continue to improve the experience leading into general availability.
+
+Is Outlook.com merging with Office 365?
+
+We are bringing together several email and calendar components of Outlook.com and Office 365, to improve engineering efficiencies and provide better consistency of user experiences. While we are converging many of the features of the two offerings, Outlook.com and Office 365 will remain distinct services.
+
+If you need additional technical assistance, please post a question in this Outlook Preview forum.  If you have feedback or an idea for a new feature, please vote for an idea or leave a comment on Outlook.UserVoice.com.

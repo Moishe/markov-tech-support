@@ -1,0 +1,1232 @@
+Skip to main content
+Microsoft
+Support
+Microsoft 365 Office Windows Surface Xbox Deals Buy Microsoft 365
+All Microsoft
+Search 
+Sign in to your account
+Sign in
+Office support
+ 
+Products 
+ 
+Devices 
+ 
+What's new
+ 
+Install Office
+ 
+Account & billing 
+ 
+Templates
+ 
+More support 
+Best practices for Outlook
+Outlook 2021 Outlook 2019 Outlook 2016 Outlook 2013
+Stay connected and on schedule
+You can be organized, on time, and buttoned up with Outlook — your life organizer.
+
+Try 1 month free
+This article was written by the product team that created Microsoft Outlook for the best possible reason — our customers asked. Outlook is designed to be used by a wide audience with many work needs and styles. Although there's no one "right way," there are a few ways of working in the program that we know to be easier than others. We hope that by being aware of the best practices, you will have the best experience possible using Outlook.
+
+This guide represents our advice on how to get the most out of Outlook. However, it isn’t a comprehensive guide. A few core scenarios are covered to help you leverage Outlook into your information management needs.
+
+This guide is intended for people who:
+
+Work for a large company with an IT department.
+
+Receive more than 30 email messages a day.
+
+Spend lots of time every day using Outlook to send and receive messages and to set up or attend meetings.
+
+Are using Outlook with a Microsoft Exchange Server account or with a Microsoft 365 account.
+
+Regardless of your server setup or organization size, this document will be useful to you.
+
+For IT administrators
+Sentences prefaced with the Microsoft Office logo Office logo are references to other Office products, such as Microsoft OneNote, and Microsoft SharePoint Server. Sentences that mention AutoArchive and Outlook Data Files (.pst) are marked with an icon of a folder and file Folder and file icon. If your organization doesn’t deploy these products or features, these sentences can be disregarded without impacting the overall document and work flow.
+
+In this article
+Basic principles of good time management
+
+Setting up Outlook 2010: The layout
+
+Folders
+
+Rules
+
+To-Do Bar
+
+Notifications
+
+Categories
+
+Quick Steps
+
+Tame your Inbox with the four Ds
+
+Daily review: Managing your time and tasks
+
+Tasks: Doing your work
+
+Find that message: Searching effectively
+
+How to find a message from a particular person
+
+Write great email messages
+
+Calendar and meetings
+
+Contacts
+
+Frequently asked questions
+
+References
+
+About the author
+
+Basic principles of good time management
+Outlook is a tool to help you manage your email messages, calendar, contacts, and tasks. As such, it’s at the center of not only your communications but also your time-management. To get the most out of Outlook, we suggest a few basic principles:
+
+Reduce the number of places where you read messages. If you're using a new version of Microsoft 365, you can use Focused Inbox for Outlook to automatically separate the types of messages you're most likely to read right away from other messages.
+
+Let some messages pass by. Use rules to send the messages that you don't need to read right away into their own folders. Such as folders for projects or Contact Group folders. You don’t need to — and in high volume situations probably can’t — read every message sent to you.
+
+Reduce the number of places where you manually file messages. Reduce the mental tax of filing by relying on search to locate messages.
+
+Process your messages by using the Four Ds. When reading your messages, decide whether to:
+
+Delete it.
+
+Do it (respond or file for reference).
+
+Delegate it (forward).
+
+Defer it (using categories and flags) for a second review in your task list.
+
+Reduce your to-do list to one list. Use a single to-do list and a single calendar to manage what you need to do.
+
+Work in batches. Use categories to help you group similar tasks together.
+
+Use good judgment when sending messages. Follow the do’s and don’ts of writing great messages.
+
+Review your calendar and tasks regularly.
+
+Even if you don't use all of the best practices described here, following only a few will improve your experience with Outlook.
+
+Top of Page
+
+Setting up Outlook: The layout
+The first step in following these best practices is to set up a system to optimize how you use Outlook. It’s considered best practice to have:
+
+The Navigation Pane open on the left.
+
+Your messages in Conversations view, with messages sent directly to you automatically formatted in blue.
+
+The Reading Pane on the right.
+
+The To-Do Bar open on the far right. If your screen resolution is less than 1024 by 768 pixels, the To-Do Bar can be minimized.
+
+Cached Exchange Mode turned on.
+
+For details on how to set up the recommended layout, see the FAQ section.
+
+Top of Page
+
+Folders
+It’s considered best practice to have:
+
+An Inbox for messages that you need to process (deal with). Your Inbox is for messages sent directly to you or that could be important for you to read.
+
+If you receive many messages that go back and forth among several different people, change to Conversations view. Otherwise, use the date arrangement (the default arrangement). Use automatic formatting rules to make all messages sent only to you blue.
+
+A single reference folder, under the Inbox, for all reference material that you might want to refer back to later. Nothing is automatically filed (that is, with a rule) into this folder. Name this folder 1-Reference. (Adding the 1- will cause it to be the first item under the Inbox.) This folder is created under the Inbox so that you can collapse the Inbox and remove it from view.
+
+Archive icon Set this folder to auto archive annually.
+
+Note: If this folder becomes too large (10,000 items or more), Outlook might become slow when switching to this folder.
+
+A folder for career-related, private, and personal messages. Having a separate folder for personal and career-related information gives you the freedom to search for a message while someone is standing over your shoulder without worrying that a personally sensitive message will appear. Name this folder 2-Personal. Managers might have a single folder for feedback on their employees called 3-Management.
+
+Archive icon Set these folders to auto archive annually.
+
+A set of folders for Contact Group messages. All messages sent to Contact Groups (also known as list servers, or mailing lists, or distribution lists) don’t necessarily need to be read. This set of folders is the repository for all of the Contact Group messages that aren’t automatically delivered to your Inbox. Create a single, top-level folder under your Inbox called Contact Groups, and then create a subfolder for each topic of Contact Groups. Usually, one folder per Contact Group is enough, but if you are on several related Contact Groups, consider having all of the messages delivered to the same folder.
+
+Collapse the top-level Contact Group folder so that you aren’t distracted by the unread messages in the folders beneath it.
+
+Note: If you need to read every message on a Contact Group, don’t create a folder for it. These messages should go directly to your Inbox.
+
+Archive icon Set your Contact Group folders to auto archive every six months or more frequently if they are time sensitive — for example, a Contact Group for finding carpool rides should be archived daily.
+
+A set of folders for RSS Feeds. Much like the set of folders for Contact Groups, RSS represents another set of data that might sometimes have interesting information, but doesn’t need to be read consistently or with the same sense of urgency as messages sent directly to you. Outlook creates these folders automatically.
+
+Search folders
+Search folders are useful for gathering information from across different mail and RSS folders. Search folders can be especially useful when you need to gather information that is saved in different folders — for example, when preparing for a quarterly meeting.
+
+If you receive a large volume of messages (more than 200 messages a day), search folders might be a good way for you to parse mail from different senders.
+
+Favorites at top of navigation pane
+
+Favorites (optional)
+Favorites give visibility to folders that are otherwise buried in your mail folder list.
+
+Favorites, a subset of your mail folders, appear at the top of the navigation pane. Using Favorites isn’t a requirement for this system to work, but if you have a small screen, you can minimize the Navigation Pane and still successfully file your messages by dragging messages to the minimized bar, perform common searches, and navigate to the Calendar, Contacts, and Tasks.
+
+It’s considered best practice to have the following folders in your Favorites: Inbox, 1-Reference, Sent Items, and Deleted Items.
+
+Top of Page
+
+Rules
+The goal of organizing your Outlook is to reduce the amount of unnecessary "noise" in your Inbox and to make the most important items bubble to the top. Rules help this process by moving messages into folders based on criteria that you set. Rules filter the messages coming into your Inbox for must-read items only.
+
+It’s considered best practice to have the following rules (details on how to set up these rules are in the FAQ at the end of this paper):
+
+Automatic Replies    Move all responses to meetings that don’t have content to Deleted Items. You can see who has accepted by checking the tracking tab inside the meeting window.
+
+To: Me    Any message sent directly to you or with you on the Cc line is sent to the Inbox and isn’t processed by other rules, even if it’s also sent to a Contact Group.
+
+Meeting Requests Sent to Inbox    All meeting requests, even if sent to a Contact Group, should be sent to the Inbox.
+
+Defer Sent Items    This rule delays sending messages by one minute or longer. When using this rule, make sure that your messages have been sent before you shut down your computer.
+
+Note:  Office logo This is a client-side-only rule; it won’t work on Outlook Web App (OWA).
+
+Contact Groups    Any email message sent to a Contact Group is sent to a Contact Group folder — unless its keywords suggest that it's important to you, in which case it’s sent to your Inbox. Multiple Contact Groups that are similar should use the same rule and be filed in the same folder. If you are a member of a Contact Group for which you need to read every message, don’t create a rule for it. Any messages that you must read should go directly into your Inbox.
+
+Top of Page
+
+To-Do Bar
+The To-Do Bar is the panel on the right side of Outlook. It shows you a calendar, your upcoming appointments, and your unified task list, which contains:
+
+Messages you need to respond to (flagged messages).
+
+Contacts you need to call (flagged contacts).
+
+Tasks that come up spontaneously.
+
+The best practice for setting up the To-Do Bar is to:
+
+Show a Date Navigator (turned on by default).
+
+Show tasks (turned on by default).
+
+Office logo Show favorite contacts.
+
+The default arrangement for tasks is by Due Date, but you might consider changing the arrangement to Start Date, depending upon how you use flags. If you want to see the tasks that you have pushed out for next week on Monday, arrange by Start Date. If you want to see tasks on the day that they are due, arrange by Due Date.
+
+Default Flag
+It’s considered best practice to set your Quick Click flag to Today (which is the default).
+
+Top of Page
+
+Notifications
+If you receive a lot of messages or are easily distracted by the notification sound that plays for incoming messages, we recommend turning off the following options:
+
+The new mail pop-up alerts
+
+The envelope icon that appears on the Outlook icon in the Windows task bar
+
+The cursor briefly changing to an envelope
+
+The sound that accompanies all of the above settings
+
+To change these settings, select the File button, select Options, and then select Mail.
+
+Under Message arrival, clear all of the check boxes.
+
+Message arrival options
+
+Top of Page
+
+Categories
+Categories in Outlook allow you to manage items in many different ways. There are three main types of categories that we recommend creating:
+
+Project (can include people)
+
+Topic
+
+Location or activity
+
+Categories aren’t a required aspect of this system, but they will make your life easier if you are diligent about using them. For example, they can help you more easily identify what you can do now and help you group similar tasks so that you can do them all at once.
+
+To create categories, do the following:
+
+In any view, on the Home tab, in the Tags group, select Categorize, and then select All Categories.
+
+It’s considered best practice to have a category for:
+
+Each of your direct reports and your manager for items that you want to review the next time you meet (for example, a category named 1:1 Manager).
+
+Each of the major locations or types of activities that you do, so that you can perform bulk actions (a useful part of managing your tasks), for example:
+
+@Commute for tasks that you can do on the way home from work.
+
+@Email for tasks that involve email messages, meetings, or any other aspect of Outlook.
+
+@Home for tasks that you can do only at home.
+
+@Meeting for items that you need in order to prepare for a meeting.
+
+@Offline for tasks that take you away from the computer, such as making a copy of a document.
+
+@Online for tasks that you can accomplish only online or through a Web browser.
+
+@Phone for calls you have to make or receive.
+
+@Read for tasks that involve just reading — not responding. This category is useful for long messages or attachments that you need to read but can’t get to right away.
+
+@Waiting for messages or tasks for which you are awaiting a response, but there is no explicit next action for you.
+
+Categories
+
+Note: Using the @ symbol makes the categories stand out in your category list. Marking @ before certain categories helps to keep these categories at the top of your category list and reminds you of where you should be when you are performing this task (for example, @Phone is "at the phone").
+
+Each important topic or project so that you can easily find messages on a given topic — especially if there is no word in the body or subject of the message that would make it appear in a search.
+
+Important items that must be done today and can’t roll over to another day.
+
+You can apply multiple categories to a single item — as opposed to filing, where items can live in only one folder at a time. For example, an important message that you want to discuss with your manager before you respond might be categorized with both the @Email category and the 1:1 Manager category.
+
+Tasks with multiple categories
+
+Your Quick Click category should be the category that you apply most often.
+
+To set your Quick Click category, do the following:
+
+In any view, on the Home tab, in the Tags group, select Categorize, and then select Set Quick Click.
+
+As you will see, categories help messages and tasks stand out in your To-Do Bar, make searching more efficient, and help you get ready for meetings.
+
+Note: Be very careful about categorizing your outgoing messages — your recipients might be able to see your categories.
+
+Top of Page
+
+Quick Steps
+Quick Steps
+
+Quick Steps give you the ability to perform multiple actions in one click. They are a useful tool to help you keep a clean inbox and to generally be more efficient at using Outlook. Any time you find yourself repeatedly doing the same steps in Outlook, try creating a Quick Step.
+
+Note: Quick Steps only apply to messages.
+
+It’s considered best practice to have the following Quick Steps. For more information, see Automate common or repetitive tasks with Quick Steps:
+
+Quick Step
+
+What it does
+
+When to use it
+
+Reference
+
+Marks the message as read.
+
+Moves it to your 1-Reference folder.
+
+This is your one-click filing button.
+
+Personal*
+
+Marks the message as read.
+
+Moves it to your 2-Personal folder.
+
+For filing personal messages.
+
+Done
+
+Marks the message as read.
+
+Marks the message as completed.
+
+Moves it to your 1-Reference folder.
+
+For reference messages that you have responded to or otherwise dealt with.
+
+Defer*
+
+Marks the message as read.
+
+Flags the message as a task for Today
+
+Moves it to your 1-Reference folder.
+
+For messages that you want to deal with later.
+
+*Personal and Defer Quick Steps aren’t default Quick Steps.
+
+Optional Quick Steps
+In addition to Quick Steps listed above, depending upon your job and your general day to day activities, you might want to create the following types of Quick Steps:
+
+Quick Step
+
+What it does
+
+When to use it
+
+Categorize & Move
+
+Marks the message as read.
+
+Categorizes the message.
+
+Moves it to your 1-Reference folder.
+
+You categorize many of your messages before you file them to help you find them later. Create one per category you use often.
+
+Flag & Move
+
+Marks the message as read.
+
+Flags the message.
+
+Moves it to your 1-Reference folder.
+
+You are flagging things for different dates, such as Tomorrow, This Week, etc. Create one per flag you use often.
+
+Flag, Categorize & Move
+
+Marks the message as read.
+
+Flags the message.
+
+Categorizes the message.
+
+Moves it to your 1-Reference folder.
+
+You use a few categories to help you understand what context your tasks are. Example: @Read: Flags for tomorrow, categorizes with @Read category.
+
+FYI & Move
+
+Marks the message as read.
+
+Creates a forward as FYI message
+
+Moves it to your 1-Reference folder.
+
+You are often forwarding email to other people (articles, etc.)
+
+Delegate
+
+Marks the message as read.
+
+Creates a forward to a specific person
+
+Moves it to your 1-Reference folder.
+
+You receive messages now meant for others.
+
+Task
+
+Create a task with attachment
+
+Delete message
+
+You need more context for your flagged messages.
+
+Contact Group
+
+Marks the message as read.
+
+Moves it to your Contact Group folder (or to a specific Contact Group folder).
+
+You receive some messages from Contact Groups in your Inbox due to rules, inadvertently. Example: You have a rule to file all messages from Contact Group foo into a folder, unless it has the word bar anywhere in the body. Occasionally, someone will send a message to Contact Group foo with the word bar, but it isn’t something that relates to you.
+
+Reply & Delete
+
+Opens a reply window.
+
+Deletes the original message
+
+You often receive quick messages that you need to respond to, but that after which, you don’t need the original message. For example: “Hey, do you want to go to lunch?” Your response: “Sure!”
+
+After you start creating Quick Steps, you will find that there might be other ways that you can optimize the number of clicks required to get something done. Whenever you find yourself doing the same thing repeatedly, try creating a Quick Step. And as projects change, update your Quick Steps so that they are only the things you really do.
+
+Top of Page
+
+Tame your Inbox with the four Ds
+Once you set up your system, you are ready to begin managing incoming messages. By making your Inbox the central place for receiving important messages, you can go through it with the confidence that each item is something you need to deal with.
+
+For every message in your Inbox:
+
+If it isn't important, delete it immediately.
+
+If it can be done in two minutes or less, do it (reply, file, call, etc.).
+
+If it isn't for you or if you can, delegate (forward) it.
+
+If you need to do it, but it takes longer than two minutes (including reading), defer (hold off on) it.
+
+If you need it as reference (even if you have decided to defer it), move it into your reference folder. The goal is to reduce the number of times you touch each message.
+
+Delete it
+Delete messages that you don't need to read. If it’s junk, delete it.
+
+If you never want to receive another message as part of this conversation, ignore it.
+
+Ignore, clean up, delete, archive
+
+Do it: The Two-minute drill
+It’s amazing what can be done in two minutes. For example, many messages can be responded to in two minutes or less. But if a message takes longer than two minutes to deal with, defer it. To get a sense of what two minutes feels like, try timing yourself.
+
+After you have dealt with the message, do one of the following:
+
+Delete it if it’s something of little consequence.
+
+File it in one of your reference folders (for example, 1-Reference) using a Quick Step.
+
+To keep a record of the things that you have done, especially for the purposes of reflection around the time of annual reviews or for preparing reports, use the Done Quick Step, which also marks messages as completed.
+
+Delegate it
+Sometimes you receive a message that is really meant for someone else to deal with. In these cases, reply and include the person you're delegating the message to on the To line. If you find you're doing this often, consider creating a Quick Step that replies and adds the delegated person to the To line.
+
+If you want to follow up later, flag it for yourself before sending. In your To-Do Bar, mark the task with the @Waiting category.
+
+Defer it
+When to defer a message
+Deferring a message means that you will review it later, when you have time.
+
+Reasons to defer a message:
+
+It can’t be dealt with in less than two minutes.
+
+It will take a while to read.
+
+It will require a carefully crafted response.
+
+It requires additional action in another program (for example, "Need to add to <name> document").
+
+How to defer a message: Flag it
+When you decide that you don't have time to deal with a message right away, you can flag it:
+
+If you need to do it today, flag it for Today (just left-click the flag).
+
+If you can put it off for longer, right-click it and flag it for a later date.
+
+If you will need to refer to the message more than once and you want easy access to it, drag it to the Later group in the To-Do Bar. If you don’t have a Later group, set the flag Start Date on the task to 100 years in the future. (Use this flag rarely so that it doesn’t become an overpopulated catch-all.)
+
+If it’s something you will need in the short term, flag it No Date so that it appears at the top of the To-Do Bar. Use this group sparingly and clear it out regularly, because it’s at the top of your task list.
+
+In addition to flagging a message, you can:
+
+Add appropriate categories.
+
+Select your Reference Quick Step to mark the message as read, if it’s not already marked as read and file it to your reference folder (1-Reference).
+
+If you find that you are repeatedly applying the same categories and flags, create a new Quick Step that flags, categorizes, and files.
+
+Once an item has been flagged, it will appear in the To-Do Bar. By flagging it and filing it into your reference folder, you have processed it, and now you can move it out of your view. But because it’s in your task list, you can move on to your next message, knowing that you will return to your flagged items later.
+
+If you want to add more information to your flagged items
+If the Subject line of a message doesn’t provide you enough context, you can do one of two things, depending upon the amount of information you need to add:
+
+Change the name of the task by selecting it in the To-Do Bar or right clicking on it and selecting Rename Task. Changing the name of the task won’t change the subject of the message, but it makes it easier for you to understand what your next task is.
+
+Create a task with the message as an attachment.
+
+You can also add a category to help you see at a glance where your next action is. A quick glance at your To-Do Bar with categorized tasks lets you know what is immediately actionable (@Office), which tasks you are waiting on other people for (@Waiting), and what you will be meeting about (@Meeting).
+
+When do you deal with the tasks you have deferred?
+After you process your messages, you can tackle your task list. This is when you respond to those messages that you have deferred.
+
+Just file it
+Sometimes you receive a message that you don’t need to act upon, but which you might need at a future date. A good example is a message with instructions. File these messages in your reference folder (1-Reference) by selecting your Reference Quick Step. Adding a category will make the message easier to find later if you need it (for example, @Project). Do this before filing with your Quick Step.
+
+After you finish processing your messages, you should have a clean Inbox and can switch your focus to your calendar and tasks.
+
+Top of Page
+
+Daily review: Managing your time and tasks
+It’s considered best practice to set aside time every morning to manage your task list and your calendar. This includes:
+
+Reviewing your appointments and meetings for the day and week ahead.
+
+Reviewing your tasks and making adjustments.
+
+Adding appointments to your calendar to make time to get your work done.
+
+Saying no
+As you review your calendar and your task list, be realistic about what you can accomplish. Sometimes that means saying no. Here are some ways to gain back time by saying no:
+
+Decline meetings that you don’t need to attend. Yes, you can do this.
+
+Delete tasks that you don't need to do or that you know you won’t do.
+
+Send messages to let people know that you are working on a response (and make sure to flag it for yourself on send). It’s better to let someone know that you will respond by a realistic date than have the person think that you forgot about the request.
+
+Calendar management
+The reality is that if you have a day filled with meetings, you have less time to complete tasks and write messages, so move tasks to other days.
+
+If a task is going to take a long time or if it’s something you must do (as opposed to tasks you decide you don’t need to do), drag it from the Daily Task List onto the calendar to block off time.
+
+Ways to create tasks
+As you go through your calendar and tasks, inevitably you will start thinking of more things you need to do. Here are some ways to create tasks in Outlook:
+
+Flag the message.
+
+Type in the Type a new task box at the top of the task list.
+
+Use the keyboard shortcut Ctrl+Shift+K to create a new task.
+
+If you are driving, and it’s legal and safe to do so, use the voice memo function on your mobile device or mobile phone to record your tasks and transcribe them later into your To-Do List.
+
+Office logo If you are in a meeting, take notes in OneNote. Flagged items in OneNote appear in the Outlook task list.
+
+Ways to manage tasks
+Here are ways you can help yourself deal with your tasks:
+
+Add tasks as they come to you by typing in the Type a new task box in the To-Do Bar or in the top of Task list, in a blank space in the Daily Task List, or by selecting New Task in the ribbon.
+
+Clean out tasks that you don't need to do. Your task list is your sacred space — don’t let it get polluted, or its utility will be lost. For flagged messages that you want to keep, select Remove from List, otherwise, just Delete.
+
+Mark completed tasks complete so that they are removed from the To-Do Bar.
+
+Make tasks more actionable by changing the task subject of a flagged message. For example, a flagged message with the subject line Can’t change group membership via keyboard should be renamed Reply to Ryan, which is the next action for this task. To change the task subject, select the item in the To-Do Bar and type a new subject or right click, and then select Rename Task. Changing the task subject doesn’t change the subject of the message. Only the subject you see in your task list changes.
+
+Create and assign color categories to help you identify where you need to be to take the next step and to make some tasks stand out.
+
+Rearrange your tasks to group together similar tasks, such as tasks with the same category. To move a task, select the task in the task list and drag it. In this way, you can work on similar tasks together.
+
+Drag tasks in the Daily Task List and in the To-Do Bar to the day you plan to do the task. For tasks that will take some time, drag the tasks onto the calendar to set aside time to get these tasks done.
+
+Although it’s good to be organized, don’t spend a lot of time prioritizing and managing your task list. The process of managing your task list shouldn't take over your life!
+
+Use your calendar: Create appointments for managing your time
+Remember: There is always more to do than time to do it.
+
+As part of good time management, you need time to deal with your messages, manage your appointments and tasks, and reflect on what you have to do.
+
+You can schedule this time for yourself with regular appointments and meetings on your calendar. Your calendar should be treated as your real plan for your time — if you have scheduled it, then that is what you are committed to doing at that time.
+
+Set aside time to:
+
+Deal with your messages. Setting aside time to deal with messages is especially important if you receive a lot of messages. Even if you have rules set up so that only the important messages appear in your Inbox, you still need time to deal with those messages.
+
+Tip: When processing and reading your messages, remove visual clutter by minimizing the Navigation Pane and To-Do Bar by selecting the Reading button Reading view in the status bar. To go back to everything open, select Normal Normal view (just to the left of Reading).
+
+Do a daily and weekly review of your tasks and appointments. Look at your calendar and tasks, and evaluate your appointments and tasks against your priorities. If you have a busy calendar, this is the time for:
+
+Clearing out conflicting appointments, because you can't be in two places at once.
+
+Scheduling time to do work.
+
+Reflecting on what you're doing, whether it's a valuable use of your time, and whether you're setting the right priorities.
+
+Meet regularly with your manager. Regular meetings with your manager can help you explain what you are working on and reset priorities where needed. To set up a regular or recurring meeting, select Recurrence Button image.
+
+Top of Page
+
+Tasks: Doing your work
+Weekly review
+Looking at the whole picture of your time and your tasks will help you to prioritize important work over less urgent tasks. It will help you to make it clear to others what can and can’t be realistically expected of you to accomplish. Reviewing your past week and upcoming week is also a useful way to help you prepare for a weekly meeting with your manager or help you prepare a status email message.
+
+Where to do your work
+After you have processed your messages, the best place to do work in Outlook (reply to messages and so on) is in Tasks. By switching to Tasks, you won’t be distracted by messages arriving in your Inbox.
+
+Bulk process your tasks
+As you go through your task list and your calendar, do similar tasks together. For example, if you have only a few minutes, make all of your phone calls (if you have just a few). Tackle energy-intensive tasks (for some, that might be responding to messages) when you have more energy. Deal with your low-energy tasks, such as reading status messages, later in the day or whenever your energy is lower. By "bulk processing" your tasks, you will make progress on all of your projects simultaneously.
+
+One way to bulk process tasks is to change the arrangement from Arranged By: Start Date to Arranged By: Categories. To do this, select the Arranged By heading, and then select Categories.
+
+Note: If you have tasks that are blocking other people from getting their work done, do those tasks first.
+
+Arrange Tasks
+
+Finishing your tasks
+As you finish your tasks, mark them complete. Outlook keeps the list of your completed tasks automatically. This can be a useful summary of what you've accomplished. If you don't need to keep a record of the task or the message, delete it or clear the flag.
+
+Complete or remove task
+
+Working offline
+If you have a lot of work to do, consider going offline to stem the tide of incoming message distractions.
+
+When you switch between working online and offline, all email accounts within your Outlook profile are changed.
+
+On the Send / Receive tab, in the Preferences group, select Work Offline.
+
+Select Work Offline
+
+The Work Offline command is highlighted when you're working offline.
+
+Work Offline selected
+
+Select the highlighted Work Offline to return to Online mode.
+
+Top of Page
+
+Find that message: Searching effectively
+How to find a message from a particular person
+If you want to find a message from a particular person, select the Search box in any folder, and then on the Search tab, select From.
+
+Search from
+
+Type the person’s name.
+
+Search by sender name
+
+Or, start by typing the name in the Search box, and then press the down arrow key to select From to narrow the results.
+
+How to find a message with an attachment
+To find a message with an attachment, select the Search box and on the Search tab, select Has Attachments.
+
+Search for attachments
+
+All search terms are additive, so if you want to find a message from someone with attachments, select the commands on the ribbon (From, Has Attachments) to build your search.
+
+Search for from and attachments
+
+To find messages across your whole mailbox
+Sometimes you can’t find a message by only searching in your reference folder alone — it could be a message that you sent or it could have been misfiled. In these cases, start by searching in any folder (Inbox, 1-Reference, etc.), then select the drop down menu from the search box, and then select Current Mailbox.
+
+Select search scope
+
+You can also select Current Mailbox on the Search tab.
+
+Select search scope
+
+If you suspect that what you are looking for might be in an accepted meeting request (and therefore is on your calendar), try selecting All Outlook Items.
+
+If you find that you are often performing searches across your whole mailbox, you can set the default search scope to always search across all folders by going to the Backstage view.
+
+Select the File tab, then select Options.
+
+Select Search.
+
+Under Results, select Current mailbox.
+
+Set default search scope
+
+To stop searching
+Once you have found the item that you are looking for and are ready to move on to your next task, select the close icon Close icon next to the Instant Search box or on the Search tab, in the Close group, select Close Search.
+
+Close search
+
+Write great email messages
+The following rules will help you look professional and get your message across.
+
+Basic rules of great messages: The dos
+Read your message before you send it.
+
+Make your subject descriptive and action-oriented. For example: Sales Team: Please send proposed Board Retreat Dates, where Sales Team is the name of the group, and Please send is the action. Other useful prefixes include FYI: and Action Required.
+
+If action is required, state what you want in the Subject box.
+
+Change the subject of the message if the topic of the conversation changes.
+
+Keep all messages short and to the point.
+
+Organize the content of your message from most important to least.
+
+Consider bolding important information.
+
+Put action items or questions on separate lines so that they stand out and get noticed.
+
+Bold people's names when asking questions. For example: “Ryan: What is the status of the project?
+
+Limit the number of people to whom you send a message to those who need to read it.
+
+Put people who need to be informed on the Cc line.
+
+Put people who need to respond or take action on the To line.
+
+Use a signature when appropriate, but keep your signature simple, short, professional, and if possible, free of graphics.
+
+If you want an immediate response, don't send a message. Phone or send an instant message.
+
+If you are on an email conversation that has more than ten messages without a resolution, consider setting up a meeting to discuss the issue. Email isn’t always an efficient medium for resolving complex issues. With the message selected, on the Home tab, in the Respond group, select Meeting.
+
+Reply with meeting
+
+Acknowledge messages that require a more extensive response. If you are too busy to respond with a full answer right away, let the sender know that you are looking into the issue and will respond by a certain time or date. Flag it for yourself to do later.
+
+Use High Importance High importance sparingly.
+
+Tags menu
+
+If you are asking a question and there are several people who could respond, choose just one person rather than sending your question to a group.
+
+Follow up: Flagging on send
+When you are sending a message to someone from whom you need a response, do the following:
+
+Flag it for yourself on send.
+
+Change the name of the flagged message task in the To-Do Bar to begin with Follow Up.
+
+Mark it with the @Waiting category.
+
+When you take these three steps, you know that your next action is to send another message or watch for a response.
+
+Tip: Reminding yourself to send another message is often more effective than flagging the message for your recipient. Similarly, when you promise to do something in a message, flag it for yourself so that you have a task in your To-Do Bar to remind you.
+
+Basic rules of great messages: The don'ts
+Don't use stationery.
+
+Don't include your manager on every message you send.
+
+Don't send a message when you are angry. Better to write it, save it to your drafts folder, and come back to it later.
+
+Don't expect a quick response when sending long messages (more than two paragraphs).
+
+Don't send a follow-up message less than a day after the first message. If you don't hear back in a timely manner, try using the phone or a messaging app such as Microsoft Teams.
+
+Don't use read receipts or delivery receipts on every message you send. Use them only if you are unsure whether your recipients will receive the message.
+
+Don't attach flags or high importance High importance to every message you send. Your recipients will learn to ignore them.
+
+Don't use ALL CAPS.
+
+Don't send attachments — send links instead. This rule applies especially to meeting requests, where attachments can contribute significantly to server quotas.
+
+Don't expand distribution lists. Expanding distribution lists makes messages harder to read and causes them to go into the wrong mail folders for people using rules.
+
+Don't use sarcasm. Your humor might be misunderstood.
+
+Don't write something you wouldn't want everyone in your company to read. You never know where your message might end up.
+
+Don't use cursive or "funny" fonts that are hard to read.
+
+Don't use red fonts, because they are hard to read and can be interpreted as being critical.
+
+Don't use Reply All to a Contact Group asking to be removed. Ever.
+
+Advice for Contact Groups (previously called Distribution Lists)
+If you are responding to a large Contact Group, follow all of the message Do’s and Don'ts.
+
+If you need more information or are investigating the issue separately, respond to the whole Contact Group to let everyone know that you are responding and then reply to the individual separately. Make sure to respond to the Contact Group after the issue is resolved with the resolution. In this way, the resolution can be referenced by other people on the Contact Group.
+
+How to redirect people
+If someone sends a message to a Contact Group that you are a member of and the message would be better answered by someone else or another Contact Group, do the following:
+
+Reply with the correct Contact Group or person on the To line.
+
+Have replies sent to the correct Contact Group or person.
+
+Don’t put the original Contact Group on the Bcc line, because your message won’t be filtered by other people's rules. Rather, leave the Contact Group on the To or Cc line.
+
+If you are transitioning to a new role and find that you are redirecting people regularly, set up a Quick Step.
+
+How to be removed from a Contact Group
+If you receive mail from a Contact Group that you don’t want to be on, send a message to your network administrator or to the owner of the Contact Group and ask to be removed. Don’t reply to the whole Contact Group. To find the Contact Group owner, double-click the Contact Group name on the To line.
+
+How to use inline comments
+Adding inline comments to a message that you receive is a convenient way to answer questions and respond directly to issues. It’s considered a best practice to do the following:
+
+In your message, mention that you are commenting inline. For example, include "See additional comments below."
+
+Differentiate your text from the original message. Some suggestions include:
+
+Changing the font color.
+
+Pre-pending your name or initials in brackets, for example, [Scott Mitchell].
+
+Image
+
+Changing the font to italic or bold or both.
+
+Don’t delete anything you didn’t write.
+
+If you only want to comment on a small part of a longer message, copy that section of your message into your response, using a different color and prefixing the quote with quotes, and then type your response.
+
+When to use Bcc
+If you add a recipient's name to the blind carbon copy Bcc box in a message, a copy of the message is sent to the recipient, but the recipient's name isn’t visible to the other recipients of the message.
+
+Use the Bcc feature to remove extra people from an email conversation when you deem that they no longer need the extra email or if the conversation topic has changed.
+
+For example, if you are one of five people who receive a question and you want to answer it, move the other four people to the Bcc line and write something such as "Bcc'ing Joe, Jeff, James, and Jennifer. Here's the answer…" Future messages will then be between only you and the original sender.
+
+Don’t use Bcc to let a third party (such as your manager) know about a sensitive message. The Bcc recipient might not realize that he or she has received a Bcc and might respond to everyone, exposing that he or she received a Bcc message. This might come across as sneaky behavior on your part.
+
+Rather than using Bcc to inform a third party of an issue, forward the message after you send it.
+
+Top of Page
+
+Calendar and meetings
+When is it appropriate to call a meeting?
+Call a meeting when:
+
+A new group of people is working together for the first time.
+
+More than 10 relatively long messages have gone back and forth among several people.
+
+Discussion, brainstorming, or collaboration is needed.
+
+Call a meeting when it’s the most efficient way to move forward, and be clear what the objective of the meeting is before you call the meeting.
+
+Whom to invite
+Only invite people who need to be involved. Each additional person you invite to a meeting adds to the complexity of the meeting, making it harder to control. On the other hand, if a decision needs to be made, make sure all of the key stakeholders are present, or the meeting will be a waste of time and resources.
+
+How to choose a time to meet
+Choose a time when everyone can meet by looking at the invitees’ free/busy information in Calendar. Use the Scheduling Assistant to view all meeting attendees availability.
+
+The free/busy grid shows the availability of attendees. A pair of lines and a highlight show the proposed start and end of the meeting.
+
+Scheduling assistant
+
+To view the Scheduling Assistant when composing a meeting request, on the Meeting tab, in the Show group, select Scheduling Assistant.
+
+Show Scheduling Assistant
+The Room Finder pane contains suggested times for the best time for your meeting (when most attendees are available). To select a meeting time, select a time suggestion in the Room Finder pane in the Suggested times section, or pick a time on the free/busy grid.
+
+Suggested times
+
+Note: If the Room Finder pane doesn’t appear, on the Meeting tab, in the Options group, select Room Finder.
+
+Select room finder
+
+If you find you're regularly creating meetings with the same group of people, create a group in the Navigation Pane so that you can more easily see people’s free-busy information. These groups can also include rooms, which can make it easier to find an available room to meet in.
+
+To create a Calendar Group, do the following:
+
+In Calendar, in the navigation pane, scroll down to the list of calendars and right-clickMy Calendars.
+
+Enter a name for your new calendar group and select Enter.
+
+Right-click your new calendar group and select Add calendar.
+
+Choose the source and then select the calendars you want to add.
+
+When to meet in person versus remotely
+Meet in person if:
+
+It’s the first time this group will be working together.
+
+Non-electronic items will be shown or passed around.
+
+It’s a brainstorming meeting.
+
+It’s a collaboration-intensive meeting.
+
+Not everyone has a phone, an online conferencing app, or the proper electronic meeting software and equipment.
+
+Otherwise, consider using an online meeting app such as Microsoft Teams or meeting by phone.
+
+Tip: If you are traveling to the meeting location, schedule travel time on your calendar before and after the meeting.
+
+How to handle related documents
+In preparing for a meeting, often there are documents to be shared before or during the meeting.
+
+Office logo If all of the attendees are connected to your corporate network, put the documents on a SharePoint site or on a shared network drive.
+
+Office logo If any of the attendees are external from your company (for example, a vendor who doesn’t have access to your intranet), consider using a SharePoint Workspace.
+
+Don’t send attachments in your meeting requests.
+
+Preparing an agenda: Let tasks help
+@Meeting is your central spot for agenda items   .
+
+Create a single task, mark it with the @Meeting category, and set the Start Date or Due Date to the date of your meeting. As the meeting date approaches and discussion points come up, add comments, bullets, and thoughts to the task as they occur to you. This task will become your agenda for the meeting.
+
+After the meeting, mark the task complete, and create new tasks for your action items.
+
+If you want to discuss a set of messages or just one message…   
+
+If you have a message you want to discuss at a meeting, flag that message for the day of the meeting and mark it with the @Meeting category.
+
+If you have more than three messages to discuss, don't flag each one because they will pollute your task list. Instead, create a new task with the name of the meeting; right-click and drag the messages to the task (copying as you go). Mark this task with the @Meeting category.
+
+If you want more room for your thoughts...   
+
+Office logo If you are collaborating with other people or just need more room for your thoughts, consider using a OneNote notebook, which can be shared either through a SharePoint site or on a local server. OneNote provides a richer note-taking experience than Outlook tasks.
+
+During the meeting: How to collaborate
+The tool that you use to collaborate during a meeting depends on the location and access of your participants.
+
+If you are collaborating on a document and everyone is in the same room, use the Track Changes and Comments features in Word.
+
+Office logo If you are presenting and some people are remote, use an online meeting and the chat features of Microsoft Teams or for less formal meetings, join everyone using a Microsoft Teams group chat and share your desktop or a second monitor.
+
+Office logo If you want to collaborate in a more ad hoc fashion, you can use OneNote to take notes together in a single notebook. If the notebook isn’t a shared notebook, send the notes in a message after the meeting.
+
+Office logo If you are taking notes or minutes for the meeting, you can also use OneNote to insert meeting details from Outlook into your notes. After the meeting, you can send your notes to the attendees as a message.
+
+How to end a recurring meeting
+When a series of meetings has run its course, rather than cancel the meeting, which will remove all historical instances of the meeting, change the recurrence pattern to end on the last occurrence of the meeting. To do this, select the Recurrence button and change the end date.
+
+When and how to share your calendar
+You might not need to share your calendar, because everyone in your organization can see when you are free or busy but not necessarily see the content or subject of the meetings and appointments. However, you can easily share your calendar with your team if you want them to be able to see all of your meetings and appointments.
+
+You might want someone else to manage your calendar on your behalf, for example, an assistant who can accept or decline meetings for you. In that case, you can delegate your calendar. If you delegate your calendar, choose only one person: Don’t make everyone a delegate of your calendar. Having more than one delegate can cause errors in your calendar.
+
+Office logo Create a SharePoint calendar for group activities that everyone has access to, rather than sharing your calendar. For example, create a calendar on a SharePoint site to keep track of the group's vacation schedules.
+
+Send your calendar in a message when you set up meetings with people who can’t see your free/busy information, such as people outside of your company.
+
+Note: Whether your calendar is shared depends on the version of Microsoft Exchange Server your system is running and how your administrator has configured the server.
+
+Top of Page
+
+Contacts
+When to use Outlook Contacts in a corporate environment
+Even if you work for a company with a Global Address list, there will be occasions when you want to keep a contact in Outlook. Create contacts for:
+
+People who are outside your company.
+
+People for whom you want to remember something or add information to their contact, such as their birthday.
+
+People whom you want to sync to your mobile phone, especially if your phone isn’t connected to your corporate address book, or for cases where you don’t have connectivity.
+
+When to create a Contact Group in Outlook
+Create Contact Groups (formerly known as personal distribution lists) in Outlook when you want to make it easier to send messages to a group of people outside your corporation. For all groups inside your corporation, create a public Contact Group (ask your IT administrator about how to do this).
+
+Top of Page
+
+Frequently asked questions
+What are Quick Steps?
+Quick Steps give you the ability to perform multiple actions in one click. They are a useful tool to help you keep a clean inbox and to generally be more efficient at using Outlook. Any time you find yourself repeatedly doing the same steps in Outlook, try creating a Quick Step.
+
+Note: Quick Steps only apply to mail items (for example, items in your Inbox).
+
+Why show the Reading Pane on the right and not the bottom (or off)?
+Reading a longer column of narrow text is easier than reading a shorter, wider section of text. This is because it’s easier to move your eyes down than left to right over long distances, which can cause you to move your head and neck and lead to fatigue. It’s better to have the Reading Pane on, so that you don't have to open each message to read its contents.
+
+What to do with folders I don't need anymore?
+The Navigation Pane folder list should be reserved for folders you use often. If it's filled with folders you don't even recognize, move all mail into the reference folder and delete your existing folders.
+
+How can I make all messages sent only to me blue?
+On the View tab, in the Current View group, select View Settings.
+
+View Settings
+
+In the Advanced View Settings dialog box, select Conditional Formatting.
+
+Advanced View Settings
+
+In the Conditional Formatting dialog box, select Add.
+
+In the Name box, type Me, and then select Font.
+
+In the Font dialog box, under Color, select Blue, and then select OK.
+
+In the Conditional Formatting dialog box, select Condition.
+
+In the Filter dialog box, select the Where I am check box next to The only person on the To line, and then select OK on each open dialog box.
+
+Note: You can use the drop-down menu to change the Where I am condition.
+
+When should I use conversation view?
+Conversation view is useful when:
+
+You check your messages less frequently, and therefore have more messages to view at a time.
+
+You have many message threads that have a lot of back-and-forth discussion.
+
+You need to see the context of who has responded to whom.
+
+You get a lot of messages.
+
+By viewing your messages in conversation view, you can easily see which conversations have had the most back-and-forth discussion. In those cases, you might want to read and respond to only the last message in the conversation. You can also select an entire conversation and act on it. For example, there might be a lengthy series of messages where the last one simply states, "Thanks, that answers my question," so you can just delete the whole conversation.
+
+You can also see messages from other folders when you are in conversation view, which is very helpful when you receive a new message on a lengthy conversation — you can see the whole history, including your replies.
+
+Should I keep personal and business messages together?
+Reducing the number of places where you read messages doesn’t mean that you should mix your work and personal messages. A best practice is to use separate mail accounts for work and personal communications. You should, however, reduce the number of email addresses that you have to deal with. Fortunately, with Outlook, you can view multiple accounts simultaneously. In addition to your work email account (Exchange Server), you can add other accounts such as Outlook.com or Gmail to the same profile in Outlook.
+
+How do read and unread states help me?
+Read and unread states in Outlook help by showing you quickly which messages have been read at least once and which have not. However, the read and unread states of messages can be easily be triggered by clicking around your messages so they aren’t a perfect record — just a tool.
+
+To quickly mark a message as read, press the keyboard shortcut Ctrl+Q. To mark it as unread, press Ctrl+U.
+
+Why isn't read/unread state enough?
+Some people try to use the read and unread states to indicate whether a message is new or a reference item. But unread state is unreliable, because as soon as a message loses focus (when you select another message), it’s automatically marked as read and far too often other devices (phones, for example) mark messages as read. Inevitably, messages will be reread, and the mental tax of figuring out what you need to do will be paid again. Using unread/read state as the “line” between those items in your Inbox that are “tasks” and those that just haven’t been processed tends to break down when you receive many messages, some of which you will never read because you can tell by looking at the subject that you don’t need to read them. A far more efficient Inbox plan is to go through your messages and decide what to do with each one. Then it should leave your Inbox — not remain "unread."
+
+Why should I file my messages?
+It’s a best practice to have a central repository for your messages, so that you can refer to them after you've "dealt" with them. By having a limited number of folders to look in (1-Reference and 2-Personal), you don't have to worry about misfiling a message or needing to copy it into multiple folders if it applies to more than one topic or project.
+
+That's not to say that there isn't a need for browsing through messages that are all on a particular topic or project. Outlook provides better tools — such as categories and search folders — so you can search effectively.
+
+Why should I have only one reference folder?
+By having a single folder, you don't have to think about which folder holds which messages, and you know that everything in this folder is something that you have looked at before and wanted to keep.
+
+Having multiple folders means that each time you file a message, you are forced to decide which folder to use. This becomes even more complicated if there is more than one appropriate folder per message. Since many folders go unused when there are multiple choices, this creates clutter.
+
+Although it might seem like a big deal to leave all of your messages in your Inbox, there is a hidden cost you pay every time you look at a message and wonder, "Is this something I have to deal with or is this just here for reference?" There is also peace of mind gained from having an Inbox filled only with new things. Your Inbox is a place that other people can manipulate; what you put in your reference folder is strictly up to you.
+
+Why do I need different folders for Contact Groups?
+Archive icon Different archiving rates    You should have different folders for different Contact Groups based on topic and frequency of AutoArchiving. For example, if you are on a carpooling Contact Group, the messages in the Carpool folder should be deleted daily. A Contact Group covering a work-related topic should be archived less frequently, such as annually.
+
+Efficient conversation grouping    When you have separate folders for topical Contact Groups, you can see entire conversations grouped together. Should you need to, you can efficiently search within a folder.
+
+Why do I need separate folders for Contact Groups and RSS?
+Messages sent to large distribution lists and to RSS feeds can easily overwhelm your Inbox. Treat these streams of information much as you would a large newspaper — there might be a useful or interesting article, but reading the whole paper would take considerable time. Let rules help you to read what is most interesting and pertinent to you.
+
+Which Contact Groups should go to a folder instead of my Inbox?
+Good candidates for a distribution list rule and folder are distribution lists that:
+
+Receive a lot of messages.
+
+Are directed to many people.
+
+Corporate-level messages with important news (for example, from the CEO) and messages from your IT department about server downtime should not go into a folder. Messages to a Contact Group that only occasionally contain useful or interesting content, regardless of frequency, should have a rule and a folder.
+
+How do I set up rules for RSS?
+If you subscribe to several RSS Feeds, treat them like another distribution list. Move the interesting RSS items (based on keywords) to the Inbox; otherwise, let them be automatically filed into RSS folders.
+
+What if I have retention policies or an Exchange Server Online Archive?
+Use your organization’s solution in place of AutoArchive, and as always, follow your corporate policy. If your corporate policy dictates that you have multiple folders for each type of item, follow that policy.
+
+Why should I use rules?
+As time goes on, you will likely receive more and more messages. You can’t read every message you receive — nor should you try to. Rather, just read the messages that are important for you to read. Rules will help you prioritize important messages and minimize distractions.
+
+Tip: Just because a message has been sent to you (or to a distribution list you subscribe to), you don’t have to read it, nor is a response expected.
+
+What dates do flags set
+Quick Step
+
+What it does
+
+When to use it
+
+Today
+
+Today
+
+Today
+
+Tomorrow
+
+Tomorrow
+
+Tomorrow
+
+This Week
+
+Two days from now or the last day of the work week, whichever comes first. (With the default settings, on Monday, this is Wednesday; on Tuesday, this is Thursday.)
+
+The last day of the work week
+
+Next Week
+
+The first day of the next work week
+
+The last day of the next work week
+
+What should I do with tasks and flagged mail from years ago in my To-Do Bar?
+If you aren’t actively using tasks or flags for any purpose, select all of the items, right-click and then select Delete. This action will delete old tasks and remove the flag from flagged messages and contacts without deleting the items.
+
+What should I do with unused categories?
+Delete all of the categories that you don't plan to use. The same category set applies to all items, so if you use a category for contacts, keep it.
+
+What’s the best way to choose colors?
+When creating color categories, be thoughtful in your color choices. For example, don’t choose the same color for @phone as @email, but do choose similar colors (shades of green, for example) for all of your 1:1 categories. Over time, you will be able to look at your task list and determine just by color whether the task is presently actionable. For example, if @Home is purple, and you are at work, you can't do any purple tasks.
+
+Why schedule time for myself?
+By scheduling time for yourself on your calendar, your free/busy information will be updated and people will be less likely to schedule you for that time. If you have a busy calendar, this might be the only way you can get dedicated time to do your job.
+
+It also helps you to make a commitment to doing work — if you put it on your calendar, you should be committed to doing that work at that time. If someone schedules over your work time, make sure to reschedule your time. Don't cheat yourself!
+
+How do I handle the 10,000 messages in my Inbox?
+If you have more than 20 items in your Inbox, process the last week of messages and then select the remaining messages and move them to your 1-Reference folder. Yes, you can do this, and it will feel great.
+
+Why do I get so many messages?
+If you feel overwhelmed by messages, you are probably receiving more than you can possibly handle, and you might need to set up more aggressive rules. Try analyzing where your messages are coming from by arranging your messages by From and then collapse all of the headers. Are you reading Contact Groups that you don't need to read? If so, create a rule. If you change your view, don't forget to change it back!
+
+I have 10 minutes: What should I read first in my Inbox?
+If you are short on time, for example, between meetings, you can read the messages in blue – messages sent directly to you. Often these messages are waiting on you for the next step and are the most important.
+
+How often should I read my messages?
+For many of us, reading messages is nearly an addiction. Spend 20 minutes in the morning going through your messages, and then turn your attention to doing a daily review of your task list. Then get on with your day! Limiting the time you spend reading messages to once in the morning and once at the end of the day could significantly improve your productivity. Try it for a full week and see for yourself.
+
+How can I manage complicated tasks?
+Office logo Some tasks require more room for planning. For these tasks, use OneNote. For example, if you are planning a project with multiple steps, nested tasks, and so on, OneNote is a more appropriate tool.
+
+If you just want to remember a few related tasks, list them in the body of the task. If there are related messages, drag them into the task.
+
+Should I keep personal and business tasks together?
+If possible, keep your personal and business tasks in one place. Keeping one list reduces the number of places that you need to look for what needs to be done. Even if you already have only one list, use categories to sort your personal from business tasks and manage your list effectively. Your personal tasks will be stored on your company's Exchange Server and could be visible to your IT department, so only put appropriate personal tasks on your list.
+
+What’s wrong with keeping tasks in my head?
+Keeping tasks in your head doesn't work. It’s liberating to depend on Outlook instead of your overtaxed brain to keep track of your tasks. You can stop spending brain power reminding yourself of your tasks ("Okay, remember to send John a message about the templates, send John a message about the templates…") and focus on the activity at hand.
+
+Why keep my tasks in Outlook?
+Why a task list in Outlook works better than a paper list:
+
+Paper lists can't automatically be kept up-to-date.
+
+Paper lists can't be easily rearranged.
+
+You can use Outlook on the webto view your task list from anywhere.
+
+Office logo Outlook integrates with OneNote and Microsoft SharePoint Server and your mobile device.
+
+Paper lists can be easily lost.
+
+Advanced: How do I create a Search Folder for email messages?
+You can have easy access to a set of messages on a particular topic for a meeting. Create a category for your meeting, and then create a Search Folder with the following criteria: category <name> and not completed and from a certain time period. As you receive messages on that topic, mark them with the category. When you meet, mark complete on the messages that you have discussed.
+
+Top of Page
+
+References
+There are many excellent books and philosophies of time management from the following sources:
+
+Books and other resources
+Getting Things Done (GTD) System, available from David Allen & Company
+
+Total Workday Control Using Microsoft Outlook by Michael Linenberger
+
+Lifehacker Tips and downloads for getting things done
+
+How Bill Gates Works, Fortune 500 magazine on CNNMoney.com
+
+Top of Page
+
+Facebook LinkedIn Email
+Need more help?
+How can we help you?
+
+Expand your skills
+EXPLORE TRAINING 
+Get new features first
+JOIN MICROSOFT INSIDERS 
+Was this information helpful? Yes No
+What's new
+Surface Pro 8
+Surface Laptop Studio
+Surface Pro X
+Surface Go 3
+Surface Duo 2
+Surface Pro 7+
+Windows 11 apps
+HoloLens 2
+Microsoft Store
+Account profile
+Download Center
+Microsoft Store support
+Returns
+Order tracking
+Virtual workshops and training
+Microsoft Store Promise
+Flexible Payments
+Education
+Microsoft in education
+Office for students
+Office 365 for schools
+Deals for students & parents
+Microsoft Azure in education
+Enterprise
+Azure
+AppSource
+Automotive
+Government
+Healthcare
+Manufacturing
+Financial services
+Retail
+Developer
+Microsoft Visual Studio
+Windows Dev Center
+Developer Center
+Microsoft developer program
+Channel 9
+Microsoft 365 Dev Center
+Microsoft 365 Developer Program
+Microsoft Garage
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Security
+English (United States)
+Sitemap Contact Microsoft Privacy Terms of use Trademarks Safety & eco About our ads © Microsoft 2022
